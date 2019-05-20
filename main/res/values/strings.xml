@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecondProjectSecondApp</string>
+    <string name="userid">User Id</string>
+    <string name="button1">Register</string>
+</resources>
